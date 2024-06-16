@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "Geometry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary.Tests", "GeometryLibrary.Tests\GeometryLibrary.Tests.csproj", "{874D6B35-5B15-4FA5-B183-81BB7CBF9C7A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{E7F9A6BC-DED7-400A-B2D8-A0FE0EFAC278}"
+	ProjectSection(SolutionItems) = preProject
+		Task2.sql = Task2.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
